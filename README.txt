@@ -1,32 +1,39 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+**Portfolio Website – Anita Khatri**
+This repository contains the source code for my personal portfolio website, showcasing my projects, technical skills, and creative work.
 
+**Live Site:**
+https://anita-khatri.github.io/AnitaKhatri.github.io/
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+**Overview**
+This portfolio highlights my work across:
+1. Web and AI-based application
+2. Data analytics and visualization projects
+3. Technical learning journey and experiments
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The goal of this site is to present my professional profile, demonstrate hands-on projects, and provide an easy way to explore my work.
 
-(* = not included)
+**Tech Stack((
+Frontend: HTML5, CSS3, JavaScript
+Design Base: HTML5 UP (customized)
+Icons: Font Awesome
+Libraries: jQuery, Scrollex
+Deployment: GitHub Pages
 
-AJ
-aj@lkn.io | @ajlkn
+**Key Features**
+Responsive modern design
+Smooth scrolling and parallax effects
+Project showcase sections
+Clean and readable layout
+Mobile-friendly interface
 
+**Project Structure**
+├── assets/
+├── images/
+├── index.html
+└── README.md
 
-Credits:
+**Customization**
+This portfolio is built on the HTML5 UP template and has been customized with my own content, styling, and project sections.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Contact**
+If you'd like to collaborate or connect, feel free to reach out through the contact information provided on the portfolio site.
