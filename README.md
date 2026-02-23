@@ -26,14 +26,9 @@ Project showcase sections
 Clean and readable layout
 Mobile-friendly interface
 
-**Project Structure**
-├── assets/
-├── images/
-├── index.html
-└── README.md
-
 **Customization**
 This portfolio is built on the HTML5 UP template and has been customized with my own content, styling, and project sections.
 
 **Contact**
 If you'd like to collaborate or connect, feel free to reach out through the contact information provided on the portfolio site.
+
